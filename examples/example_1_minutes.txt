@@ -1,0 +1,14 @@
+Meeting Topic: Timeline for Project Beta  
+Date: March 12  
+Attendees: Alice, Bob, Charlie
+
+**Discussion Points**
+- Delivery expected Thursday, but risk of delay.
+- Consideration to shift milestone to Monday.
+- Client communication delegated to Charlie.
+
+**Decisions**
+- Milestone moved to Monday.
+
+**Action Items**
+- Charlie to inform the client about the new timeline.
